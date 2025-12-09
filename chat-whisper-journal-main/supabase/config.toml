@@ -1,0 +1,7 @@
+project_id = "wsmnglqoftskegxmpooj"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.format-diary]
+verify_jwt = false
